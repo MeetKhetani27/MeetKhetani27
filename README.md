@@ -10,7 +10,7 @@ width="350" style="max-width:100%; height:auto;">
 - 🎓 B.Tech **Computer Engineering Student**
 - 💻 **PHP & Web Developer**
 - 🚀 Building startup ideas like **FixR**
-- 📚 Currently learning **Machine Learning & React Native**
+- 📚 Currently learning **Machine Learning & Data Analytics**
 - 🧠 Interested in **AI, Startups, and Scalable Tech**
 - 🌍 Based in **India**
 
