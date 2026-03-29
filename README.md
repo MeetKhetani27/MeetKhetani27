@@ -63,14 +63,7 @@ width="350" style="max-width:100%; height:auto;">
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meetkhetani27&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetkhetani27&layout=compact&theme=tokyonight" />
-
-</p>
 
 ---
 
