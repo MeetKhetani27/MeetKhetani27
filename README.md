@@ -32,11 +32,11 @@ width="350" style="max-width:100%; height:auto;">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 
-<a href="https://linkedin.com/in/meet-khetani" target="blank">
+<a href="https://www.linkedin.com/in/meet-khetani-27mk" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://instagram.com/https_.meet" target="blank">
+<a href="https://www.instagram.com/meet.khetani.7/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
 </p>
