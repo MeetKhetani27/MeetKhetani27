@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meet Khetani</h1>
 <h3 align="center">🚀 B.Tech Computer Engineering Student | PHP Developer | Future ML Engineer</h3>
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="45%" />
 
 ---
 
