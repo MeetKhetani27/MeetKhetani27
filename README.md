@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech Computer Engineering Student | PHP Developer | Future ML Engineer</h3>
 
 <img align="right" alt="coding"
-src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://imgs.search.brave.com/NvnU_kkDIJ63F4E-7_2mF6nTq39iRuEE0Eh4btUioCc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Vy/LWltYWdlcy5naXRo/dWJ1c2VyY29udGVu/dC5jb20vNzQwMzgx/OTAvMjEyNzUwNjcy/LTJmM2YyYjUwLWM4/NGYtNGVkOC1hNjBh/LTg0OWFlNjlmZjlk/Zi5naWY.gif)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
 width="350" style="max-width:100%; height:auto;">
 ---
 
