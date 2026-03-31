@@ -2,7 +2,7 @@
 <h3 align="center">🚀 B.Tech Computer Engineering Student | PHP Developer | Future ML Engineer</h3>
 
 <img align="right" alt="coding"
-src="https://imgs.search.brave.com/jx4T61E1ymJsnO847dghWdcYjvauJxIFiGmxbOadw4w/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91c2Vy/LWltYWdlcy5naXRo/dWJ1c2VyY29udGVu/dC5jb20vNzQwMzgx/OTAvMjI5MjIzMjYz/LWNmMmU0YjA3LTI2/MTUtNGY4Ny05YzM4/LWUzNzYwMGY4Mzgx/YS5naWY.gif"
+src="https://imgs.search.brave.com/odxqaZhrQSeKGNn0icASyIaeKAHBKthK4v0MFYozQIk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyNC8w/NS8wMi8wOS8xNi93/ZWItZGV2ZWxvcG1l/bnQtODczNDI0OV82/NDAucG5n"
 width="350" style="max-width:100%; height:350;">
 ---
 
