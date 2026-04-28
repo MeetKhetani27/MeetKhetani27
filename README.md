@@ -66,7 +66,7 @@ Currently pursuing <b>Computer Engineering</b>, I love building real-world solut
 
 ### 🛠️ Languages & Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,c,cpp,mysql,mongodb,bootstrap,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,python,c,cpp,mysql,bootstrap,seaborn" />
 </p>
 
 ---
